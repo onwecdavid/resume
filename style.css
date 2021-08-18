@@ -424,3 +424,21 @@ ul {
 		float: left;
 		padding-left: 40px;
 	}
+
+.edu {
+	display: block;
+	background-color: #403f44b2;
+}
+
+.bord {
+	margin-bottom: 20px;
+}
+
+.edu-1 {
+	margin-right: 15px;
+}
+
+.clr {
+	color: 2px solid rgb(202, 64, 64);
+	font-size: bold;
+}
